@@ -35,6 +35,11 @@ To set up the project, follow these steps:
 - OpenCV
 - NumPy
 - Matplotlib
+## Dataset  
+open the below link
+"https://www.kaggle.com/datasets/vishalmane109/indian-currency-note-images-dataset-2020"
+download the file and change the path of your local system also change the path of model creation path
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
